@@ -33,3 +33,4 @@
 
  <p>각 테스트 케이스에 대해 문서가 몇 번째로 인쇄되는지 출력한다.</p>
 
+https://algoroot.tistory.com/53?category=982758
