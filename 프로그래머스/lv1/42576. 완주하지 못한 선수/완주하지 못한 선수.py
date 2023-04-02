@@ -6,8 +6,7 @@ def solution(participant, completion):
 
     for a in participant:
         dic[a] += 1
-    answer = dic
-    
+
     for a in completion:
         dic[a] -= 1
         
