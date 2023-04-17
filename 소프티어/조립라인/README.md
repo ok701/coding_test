@@ -1,4 +1,4 @@
-# 수퍼바이러스
+# 조립라인
 
 [문제 링크](https://softeer.ai/practice/info.do?idx=1&eid=403)
 
