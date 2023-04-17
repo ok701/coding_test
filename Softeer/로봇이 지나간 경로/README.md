@@ -1,1 +1,0 @@
-[사고 과정](https://vintage-pegasus-b0c.notion.site/1-d372e8b1675649d7ad17a966b41ec3e6)
